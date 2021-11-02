@@ -1,6 +1,6 @@
 ## About 
 
-This research was performed in Spring, 2021 as a final project for my Concepts of Parallel and Distributed Processing class with Dr. Damian Dechev.
+This research was performed in Spring, 2021 as a final project for my Concepts of Parallel and Distributed Processing class with Dr. Damian Dechev at the University of Central Florida.
 
 ## Abstract
 
